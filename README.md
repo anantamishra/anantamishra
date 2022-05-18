@@ -15,9 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://codesandbox.io/u/anantamishra">
-  <img align="left" alt="Ananta Mishra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anantamishra/ananta/master/assets/images/codesandbox.png" />
-</a>
 <a href="https://twitter.com/aanantamishra">
   <img align="left" alt="Ananta Mishra | Twitter" src="https://img.icons8.com/color/21/000000/twitter-circled.png" />
 </a>
