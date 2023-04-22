@@ -22,7 +22,7 @@ Here are some ideas to get you started:
   <img align="left" alt="Ananta Mishra" src="https://img.icons8.com/color/21/000000/linkedin-circled.png"/>
 </a>
 <a href="https://fiverr.com/anantamishra">
-  <img align="left" alt="Ananta Mishra | Twitter" src="https://icons8.com/icon/ngc6JsBomclm/fiverr" />
+  <img align="left" alt="Ananta Mishra | Fiverr" src="https://img.icons8.com/color/21/000000/fiverr.png" />
 </a>
 
 <br />
