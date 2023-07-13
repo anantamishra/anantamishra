@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-Hi, I'm Ananta Mishra, a creative Graphics Designer, UI/UX Designer and a Frontend Engineer.
+Hi, I'm Ananta Mishra, a creative Frontend Engineer and WordPress Developer.
 
 - I am currently working as Chief Technology Officer(CTO) at [Astranix Technologies Pvt. Ltd.](https://astranix.com)
 - You can visit my portfolio [here](https://ananta.info.np)
