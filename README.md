@@ -34,5 +34,3 @@ Hi, I'm Ananta Mishra, a creative Frontend Engineer and WordPress Developer.
 - You can visit my portfolio [here](https://ananta.info.np)
 - You can hire me on [Fiverr](https://www.fiverr.com/anantamishra)
 - You can ping me on [facebook](https://fb.com/mishra.aananta) if you have any problems.
-
-![My github stats](https://github-readme-stats.vercel.app/api?username=anantamishra&show_icons=true)
