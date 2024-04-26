@@ -34,4 +34,3 @@ Hi, I'm Ananta Mishra, a creative Frontend Engineer and WordPress Developer.
 - I am currently contributing to [UbuntuDDE Remix Project](https://ubuntudde.com) as Package Maintainer
 - You can visit my portfolio [here](https://ananta.info.np)
 - You can hire me on [Fiverr](https://www.fiverr.com/anantamishra)
-- You can ping me on [facebook](https://fb.com/mishra.aananta) if you have any problems.
